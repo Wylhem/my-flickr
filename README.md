@@ -1,4 +1,4 @@
-<h1 align="middle"> My Flickr API </h1>
+<h1 align="middle"> My Flickr </h1>
 
 ## Summary
 
