@@ -13,7 +13,7 @@ This project goal is to create your copy of [Flickr](https://www.flickr.com/). Y
 
 ## Rules
 
-* You **MUST** create a git repository named `myFtp`
+* You **MUST** create a git repository named `my-flickr`
 * You **MUST** create a file called `.author`:
 
 ```sh
