@@ -17,7 +17,7 @@ This project goal is to create your copy of [Flickr](https://www.flickr.com/). Y
 * You **MUST** create a file called `.author`:
 
 ```sh
-~/codingbad/network/myFtp ❯❯❯ cat -e .author
+~/call-me-dev/learn-react/workshop/my-flickr ❯❯❯ cat -e .author
 {
   "firstName": "Dylan",
   "lastName": "DE SOUSA"
